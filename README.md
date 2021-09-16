@@ -1,5 +1,5 @@
 ## I think CSC301 is...
-
+hope i can survive 301 QAQ
 
 
 
