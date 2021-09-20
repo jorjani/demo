@@ -1,2 +1,3 @@
 ## My favorite joke of all time is...
 There are 10 types of people in this world, those who know binary and those who don't.
+Why do Java programmers wear glasses? Because they can't C#
