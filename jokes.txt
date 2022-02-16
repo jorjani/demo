@@ -1,2 +1,5 @@
 ## My favorite joke of all time is....
 There are 10 types of people in this world, those who know binary and those who don't.
+
+Q: What is a programmer's favourite hangout place?
+A: Foo Bar
